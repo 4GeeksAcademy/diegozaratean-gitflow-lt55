@@ -1,3 +1,4 @@
 a simpel text
 consultar tickets
 buscar recetas
+crear cliente
